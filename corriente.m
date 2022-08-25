@@ -1,3 +1,3 @@
-function [Corriente] = corriente(v)
-  a=(v+2)/2;
+function [corriente] = corriente(v)
+  corriente=(v+2)/2;
   endfunction

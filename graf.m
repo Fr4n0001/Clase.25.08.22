@@ -1,5 +1,5 @@
 function[]=graf(t,v,c)
-figure1 1
+figure 1
 subplot (2,1,1)
 plot (t,v)
 title('voltaje')
